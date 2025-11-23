@@ -24,7 +24,8 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-
+##JFET Transfer Characteristics:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/772dfeca-0e22-4688-8081-e3e0b7e16508" />
 
 
 ## OUTPUT GRAPH:
